@@ -1,5 +1,5 @@
-# 🎨Trailing Color Boxes
+# Trailing Color Boxes🎨
 
-### ❤️‍🔥[View live here](https://ashishshres.github.io/Trailing-Color-Boxes/)
+### Preview
 
-![](./demo.png)
+![](./demo.gif)
